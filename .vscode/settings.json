@@ -4,6 +4,6 @@
     "files.autoSaveDelay": 900,
     "files.autoSave": "afterDelay",
     "editor.fontLigatures": true,
-    "workbench.colorTheme": "Tokyo Night",
+    "workbench.colorTheme": "Default Dark+",
     "python.pipenvPath": "C:\\Users\\littl\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"
 }
